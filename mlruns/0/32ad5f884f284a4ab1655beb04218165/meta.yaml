@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joseangelmolina/PycharmProjects/Laboratory_Data_Science/mlruns/0/32ad5f884f284a4ab1655beb04218165/artifacts
+end_time: 1645201270647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 32ad5f884f284a4ab1655beb04218165
+run_uuid: 32ad5f884f284a4ab1655beb04218165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645201267685
+status: 3
+tags: []
+user_id: joseangelmolina

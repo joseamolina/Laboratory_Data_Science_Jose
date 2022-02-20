@@ -39,3 +39,5 @@ print(components)
 features = count_vect.get_feature_names()
 important_words = [sorted(features, key=lambda x: components[j][features.index(x)], reverse = True)[:3] for j in range(len(components))]
 print(important_words)
+
+
