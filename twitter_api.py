@@ -4,8 +4,8 @@ import requests
 import base64
 
 # Define your keys from the developer portal
-consumer_key = 'A1KnlcOb0HyYRv1Y77plE6yFr'
-consumer_secret = '0q1z0FFQlO6wnxbiIveo2JRZpsf5jIokFc6vXC4wCyUeHL5e0P'
+consumer_key = ''
+consumer_secret = ''
 
 # Reformat the keys and encode them
 key_secret = '{}:{}'.format(consumer_key, consumer_secret).encode('ascii')
