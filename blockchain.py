@@ -24,11 +24,9 @@ class Block:
 
     def get_json_str(self):
         return "{ 'data': '{0}', " \
-               "'hash': '{1}', " \
-               "'previous_hash': '{2}', " \
-               "'timestamp': {3}, " \
-               "'pow': '{4}'}".format(self.data,
-                                      self.hash,
+               "'previous_hash': '{1}', " \
+               "'timestamp': {2}, " \
+               "'pow': '{3}'}".format(self.data,
                                       self.previous_hash,
                                       self.timestamp,
                                       self.pow)
